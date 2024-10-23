@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thenuja
+- 👋 Hi, I’m @thenujau
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
